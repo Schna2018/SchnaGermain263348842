@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { SchnaService } from './schna.service';
-import { JsonpInterceptor } from '@angular/common/http';
+
 
 @Component({
   selector: 'app-lazy',
